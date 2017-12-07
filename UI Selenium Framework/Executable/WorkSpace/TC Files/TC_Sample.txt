@@ -1,0 +1,20 @@
+Action_Open URL
+
+
+https://google.com
+Action_Enter Text
+txtSearchBox
+//*[@id="lst-ib"]
+w3schools
+Action_Click
+btnGoogleSearch
+//input[@value='Google Search']
+
+Action_Click
+linkW3Schools
+//a[contains(text(),'W3Schools Online Web')]
+
+Action_Click
+linkLearnHtml
+//*[@id="mySidenav"]/div/a[1]
+
