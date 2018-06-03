@@ -20,7 +20,7 @@ import org.openqa.selenium.firefox.FirefoxDriver;
 import org.openqa.selenium.ie.InternetExplorerDriver;
 import org.openqa.selenium.remote.DesiredCapabilities;
 import org.openqa.selenium.support.ui.Select;
-import org.testng.Assert;
+import org.junit.Assert;
 
 public class ExecuteActions {
 	public static WebDriver driver;
